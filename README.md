@@ -1,4 +1,4 @@
-# Ethereum Fraud Detection--KGBERT4Eth
+# Ethereum Fraud Detection--LMAE4Eth
 This is an implementation of the paper - "LMAE4Eth: Generalizable and Robust Ethereum Fraud Detection by Exploring Transaction Semantics and Masked Graph Embedding"
 ## Overview
 As Ethereum confronts increasingly sophisticated fraud threats, recent research seeks to improve fraud account detection by leveraging advanced pre-trained Transformer or self-supervised graph neural network. However, current Transformer-based methods rely on context-independent, numerical transaction sequences, failing to capture semantic of account transactions. Furthermore, the pervasive homogeneity in Ethereum transaction records renders it challenging to learn discriminative account embeddings. Moreover, current self-supervised graph learning methods primarily learn node representations through graph reconstruction, resulting in suboptimal performance for node-level tasks like fraud account detection, while these methods also encounter scalability challenges.
