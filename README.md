@@ -26,7 +26,7 @@ To tackle these challenges, we propose LMAE4Eth, a multi-view learning framework
 
 We evaluated the performance of the model using two publicly available and newly released datasets. The composition of the dataset is as follows, you can click on the **"Source"** to download them.
 
-| *Dataset*        | *Nodes*      | *Edges*       | *Avg Degree*   |*Phisher* | *Source*  |
+| *Dataset*        | *Nodes*      | *Trans*       | *Avg Degree*   |*Phisher* | *Source*  |
 | ---------------- | ------------- | -------------- | -------------- |------- |---------- |
 | MultiGraph       |  2,973,489    |  13,551,303    |  4.5574        | 1,165  |  XBlock     |
 | B4E              |  597,258      |  11,678,901    |  19.5542       | 3,220  |  Google Drive   |
