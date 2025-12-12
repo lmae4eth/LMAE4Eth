@@ -28,9 +28,9 @@ We evaluated the performance of the model using two publicly available and newly
 
 | *Dataset*        | *Nodes*      | *Trans*       | *Avg Degree*   |*Phisher* | *Source*  |
 | ---------------- | ------------- | -------------- | -------------- |------- |---------- |
-| MultiGraph       |  2,973,489    |  13,551,303    |  4.5574        | 1,165  |  XBlock     |
-| B4E              |  597,258      |  11,678,901    |  19.5542       | 3,220  |  Google Drive   |
-| SPN  |  496,740      |  1831,082      |  1.6730        | 5,619  |    Github       |
+| MultiGraph       |  2,973,489    |  13,551,303    |  4.5574        | 1,165  |  [XBlock](https://xblock.pro/#/dataset/13)     |
+| B4E              |  597,258      |  11,678,901    |  19.5542       | 3,220  |  [Github](https://github.com/git-disl/BERT4ETH),[Google Drive](https://drive.google.com/file/d/11UAhLOcffzLyPhdsIqRuFsJNSqNvrNJf/view)   |
+| SPN  |  496,740      |  1831,082      |  1.6730        | 5,619  |    [Google Drive](https://drive.google.com/file/d/1SBw_FM-FrhrDelNxgT7Q5B-zg_SxUzYj/view?usp=sharing)       |
 
 
 ## Main Results
